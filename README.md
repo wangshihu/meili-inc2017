@@ -20,7 +20,7 @@ C++的小朋友们如果不想转JAVA，可以进入平台技术部做存储，�
 ###岗位详情：
 1. [后端开发工程师（JAVA/C++）](https://github.com/wangshihu/meili-inc2017/blob/master/background.md)
 2. [前端开发工程师（ios/android/前端）](https://github.com/wangshihu/meili-inc2017/blob/master/ios.md)
-3. [算法/机械学习/大数据开发](https://github.com/wangshihu/meili-inc2017/blob/master/ml.md)
+3. [算法/机器学习/大数据开发](https://github.com/wangshihu/meili-inc2017/blob/master/ml.md)
 4. [产品/运营](https://github.com/wangshihu/meili-inc2017/blob/master/production.md)
 
 
