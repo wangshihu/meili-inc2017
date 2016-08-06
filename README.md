@@ -11,8 +11,8 @@ C++的小朋友们如果不想转JAVA，可以进入平台技术部做存储，�
 基本全部react化，前后端分离。
     
   
-
-##### 简历发送至：benchu@meili-inc.com 和 houan@meili-inc.com（简历写的不好，技术好可能会建议哦）   
+### 千万别使用QQ邮箱。目前系统有bug，收不到确认邮件！
+##### 简历发送至：benchu@meili-inc.com 和 houan@meili-inc.com
 ##### 格式：姓名-学校-部门-岗位-工作期待城市	
 ##### QQ群：386205616	
 ##### JAVA的简历我都可以帮你评估下。 
